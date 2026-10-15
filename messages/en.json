@@ -110,6 +110,67 @@
         }
       ]
     },
+    "schedule": {
+      "eyebrow": "Weekly Schedule",
+      "title": "A rhythm you can plan your week around.",
+      "subtitle": "Classes run Monday through Saturday; reserve your spot the morning of or the week ahead.",
+      "restDay": "No classes scheduled. Enjoy your rest day.",
+      "days": [
+        {
+          "day": "Monday",
+          "classes": [
+            { "time": "6:30 AM", "name": "Reformer Flow", "instructor": "Naomi Clarke" },
+            { "time": "12:00 PM", "name": "Lunchtime Express", "instructor": "James Okafor" },
+            { "time": "5:30 PM", "name": "Strength & Stretch", "instructor": "Priya Anand" }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "classes": [
+            { "time": "6:30 AM", "name": "Mat Fundamentals", "instructor": "Leo Marchetti" },
+            { "time": "9:00 AM", "name": "Prenatal Pilates", "instructor": "Naomi Clarke" },
+            { "time": "12:00 PM", "name": "Lunchtime Express", "instructor": "James Okafor" },
+            { "time": "6:00 PM", "name": "Reformer Flow", "instructor": "Priya Anand" }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "classes": [
+            { "time": "6:30 AM", "name": "Reformer Flow", "instructor": "Naomi Clarke" },
+            { "time": "12:00 PM", "name": "Lunchtime Express", "instructor": "James Okafor" },
+            { "time": "5:30 PM", "name": "Strength & Stretch", "instructor": "Leo Marchetti" }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "classes": [
+            { "time": "6:30 AM", "name": "Mat Fundamentals", "instructor": "Leo Marchetti" },
+            { "time": "9:00 AM", "name": "Prenatal Pilates", "instructor": "Priya Anand" },
+            { "time": "12:00 PM", "name": "Lunchtime Express", "instructor": "James Okafor" },
+            { "time": "5:30 PM", "name": "Private Sessions", "instructor": "Naomi Clarke" }
+          ]
+        },
+        {
+          "day": "Friday",
+          "classes": [
+            { "time": "6:30 AM", "name": "Reformer Flow", "instructor": "James Okafor" },
+            { "time": "12:00 PM", "name": "Lunchtime Express", "instructor": "Naomi Clarke" },
+            { "time": "5:30 PM", "name": "Strength & Stretch", "instructor": "Priya Anand" }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "classes": [
+            { "time": "8:00 AM", "name": "Mat Fundamentals", "instructor": "Leo Marchetti" },
+            { "time": "9:30 AM", "name": "Reformer Flow", "instructor": "Naomi Clarke" }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "classes": []
+        }
+      ]
+    },
     "pricing": {
       "eyebrow": "Membership",
       "title": "Pricing built around consistency.",
