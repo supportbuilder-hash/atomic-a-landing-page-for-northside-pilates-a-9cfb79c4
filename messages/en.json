@@ -1,0 +1,229 @@
+{
+  "nav": {
+    "home": "Home",
+    "classes": "Classes",
+    "instructors": "Instructors",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "cta": {
+    "primary": "Start Free Trial"
+  },
+  "footer": {
+    "tagline": "Calm, considered Pilates for busy professionals",
+    "rights": "All rights reserved.",
+    "columns": {
+      "studio": "Studio",
+      "support": "Visit Us"
+    },
+    "links": {
+      "classes": "Class Types",
+      "instructors": "Instructors",
+      "pricing": "Pricing",
+      "faq": "FAQ",
+      "contact": "Contact",
+      "trial": "Free Trial"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "Boutique Pilates Studio",
+      "titleStart": "Move with intention,",
+      "titleAccent": "even on your busiest week.",
+      "subtitle": "Northside Pilates is a quiet, considered studio built for professionals who want real results without the noise of a big-box gym. Small classes, precise instruction, forty-five minutes well spent.",
+      "primaryCta": "Book your free trial",
+      "secondaryCta": "See class types",
+      "imageAlt": "Instructor guiding a client through a reformer Pilates exercise in a sunlit studio"
+    },
+    "classTypes": {
+      "eyebrow": "Class Types",
+      "title": "Six ways to move, one standard of attention.",
+      "subtitle": "Every class is capped at eight clients, so instruction stays precise and the room stays calm.",
+      "items": [
+        {
+          "title": "Reformer Flow",
+          "duration": "50 min",
+          "level": "All levels",
+          "description": "A full-body reformer sequence built around control and breath, designed to fit a working lunch hour."
+        },
+        {
+          "title": "Mat Fundamentals",
+          "duration": "45 min",
+          "level": "Beginner",
+          "description": "Floor-based basics that build core strength and body awareness without equipment."
+        },
+        {
+          "title": "Strength & Stretch",
+          "duration": "55 min",
+          "level": "Intermediate",
+          "description": "Reformer and light resistance work paired with deep mobility to undo a day at your desk."
+        },
+        {
+          "title": "Lunchtime Express",
+          "duration": "30 min",
+          "level": "All levels",
+          "description": "A condensed reformer class engineered around the realities of a packed calendar."
+        },
+        {
+          "title": "Private Sessions",
+          "duration": "50 min",
+          "level": "Personalized",
+          "description": "One-on-one programming for injury recovery, performance goals, or simply more attention."
+        },
+        {
+          "title": "Prenatal Pilates",
+          "duration": "45 min",
+          "level": "All trimesters",
+          "description": "Gentle, instructor-guided movement to support strength and comfort through pregnancy."
+        }
+      ]
+    },
+    "instructors": {
+      "eyebrow": "Instructors",
+      "title": "Trained eyes on every rep.",
+      "subtitle": "Our instructors come from physiotherapy, dance and competitive sport, and all share one habit: close, patient attention.",
+      "items": [
+        {
+          "name": "Naomi Clarke",
+          "role": "Lead Instructor & Founder",
+          "bio": "Trained in classical and contemporary Pilates over a decade, Naomi built Northside around unhurried, precise coaching.",
+          "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Naomi%20Clarke"
+        },
+        {
+          "name": "James Okafor",
+          "role": "Reformer Specialist",
+          "bio": "A former physiotherapist, James focuses on alignment and injury-aware programming for every client.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/7c71c69ada2646779cf043ffc12132f9.jpg"
+        },
+        {
+          "name": "Priya Anand",
+          "role": "Strength & Rehab Coach",
+          "bio": "Priya blends Pilates with strength fundamentals, popular with clients recovering from injury or burnout.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/e34b22d8b07144a884cdd387b5ec71f3.jpg"
+        },
+        {
+          "name": "Leo Marchetti",
+          "role": "Mat & Mobility Coach",
+          "bio": "A former dancer, Leo brings a mobility-first approach to mat work and recovery-focused sessions.",
+          "image": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/bfc169daa97b4b36b2d7f722b7626131.jpg"
+        }
+      ]
+    },
+    "pricing": {
+      "eyebrow": "Membership",
+      "title": "Pricing built around consistency.",
+      "subtitle": "Pay for the rhythm that actually fits your week, not a one-size plan.",
+      "plans": [
+        {
+          "name": "Drop-In Class",
+          "price": "$38",
+          "period": "/class",
+          "description": "Perfect for first visits or a flexible schedule.",
+          "features": [
+            "Full reformer or mat class",
+            "Access to studio amenities",
+            "No commitment required"
+          ],
+          "ctaLabel": "Book a drop-in"
+        },
+        {
+          "name": "Unlimited Monthly",
+          "price": "$249",
+          "period": "/month",
+          "description": "For the professional who shows up every week.",
+          "features": [
+            "Unlimited reformer & mat classes",
+            "Priority booking 14 days out",
+            "Complimentary mat and grip socks",
+            "One guest pass each month"
+          ],
+          "ctaLabel": "Start free trial",
+          "badge": "Most popular",
+          "highlighted": true
+        },
+        {
+          "name": "Founding Member",
+          "price": "$420",
+          "period": "/month",
+          "description": "Our most considered membership, including recovery.",
+          "features": [
+            "Everything in Unlimited",
+            "Monthly 1:1 movement assessment",
+            "Access to the recovery lounge",
+            "Dedicated studio locker"
+          ],
+          "ctaLabel": "Apply for membership"
+        }
+      ]
+    },
+    "freeTrial": {
+      "eyebrow": "Free Trial",
+      "title": "Your first class is on us.",
+      "subtitle": "Arrive fifteen minutes early and an instructor will walk you through the reformer before class begins. No mat, no shoes, no experience required.",
+      "nameLabel": "Name",
+      "emailLabel": "Email",
+      "timeLabel": "Preferred time",
+      "timeOptions": [
+        "Early morning (6-8am)",
+        "Midday (11am-2pm)",
+        "Evening (5-7:30pm)",
+        "Saturday morning"
+      ],
+      "submitLabel": "Claim your free class",
+      "successMessage": "You're booked. Check your inbox for studio details and what to bring.",
+      "note": "No payment required. We will confirm your spot by email within one business day."
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Before your first visit.",
+      "subtitle": "Everything we are most often asked by new clients.",
+      "items": [
+        {
+          "question": "What should I wear to my first class?",
+          "answer": "Fitted, breathable layers and grip socks (available for purchase at the studio) work best for reformer work."
+        },
+        {
+          "question": "I have never done Pilates before. Is that a problem?",
+          "answer": "Not at all. Every class is capped at eight people so instructors can adjust the work to your experience level."
+        },
+        {
+          "question": "How does the free trial work?",
+          "answer": "Your first class is on us. Choose a time below and an instructor will walk you through the studio and equipment beforehand."
+        },
+        {
+          "question": "Can I freeze or cancel my membership?",
+          "answer": "Unlimited and Founding memberships can be paused for up to two months a year, and cancelled with 30 days notice."
+        },
+        {
+          "question": "Do you offer early morning or evening classes?",
+          "answer": "Yes, the schedule runs from 6am to 7:30pm on weekdays to fit around client meetings and commutes."
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Questions before you visit?",
+      "subtitle": "Send a note and a member of the studio team will reply personally, usually the same day.",
+      "nameLabel": "Name",
+      "emailLabel": "Email",
+      "messageLabel": "Message",
+      "submitLabel": "Send message",
+      "successMessage": "Thank you. We'll be in touch shortly.",
+      "details": [
+        {
+          "label": "Studio",
+          "value": "118 Mercer Street, Northside"
+        },
+        {
+          "label": "Hours",
+          "value": "Mon-Fri 6:00am-7:30pm, Sat 8:00am-1:00pm"
+        },
+        {
+          "label": "Email",
+          "value": "hello@northsidepilates.studio"
+        }
+      ]
+    }
+  }
+}
